@@ -7,4 +7,4 @@ The Green Led only turns on when my student card is placed on the sensor
 
 
 
-<img src="rfidCard2.jpg" alt="Led Turned on">
+<img src="rfidCard2.jpg" alt="Led Turned on" style="width:500px;height:600px;">
